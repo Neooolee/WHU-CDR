@@ -5,4 +5,4 @@ WHUS2-CDb contains 500 Landsat-8 images evenly distributed over China mainland. 
 WHUS2-CDb can be downloaded on:https://pan.baidu.com/s/1rwd1WXMCMQkiOGUspHuvEw.
 
 Distributions of 36 images of the WHUS2-CD dataset. Land cover types credit: ESA-CCI-LC (Defourny et al., 2017).    
-![WHUS2-CDb.png](https://github.com/Neooolee/images/Distribution.png)  
+![WHUS2-CDb.png](https://github.com/Neooolee/images/blob/main/Distribution.png)
