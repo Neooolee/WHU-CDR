@@ -1,4 +1,4 @@
-# WHU-CDR
+# WHU-CDb
 This is a public cloud detection and removal dataset.  
 
 WHUL8-CDb is a Landsat-8 cloud detection dataset with block-level labels.
